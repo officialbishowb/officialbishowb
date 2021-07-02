@@ -3,6 +3,7 @@
 and more related stuff like that
 - 💻 I’m currently an IT student
 - ✅ Learning daily
+- ✉ Write me in telegram for anytype of collaboration
 
 <!---
 officialbishowb/officialbishowb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
