@@ -7,6 +7,7 @@ and more related stuff like that
 
 <h3>My projects</h3>
 <ol>
+  <li>Email-filter [<b>PRIVATE</b>]</li>
   <li>Web-url-Checker [<b>PRIVATE</b>]</li>
   <li>Combo-Tool [<b>PRIVATE</b>]</li>
   <li>Dork-Combiner [<b>PRIVATE</b>]</li>
