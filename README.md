@@ -20,7 +20,7 @@ and more related stuff like that
   
   
   [![Bishow's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=dark)(https://github.com/officialbishowb/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=dark)
 
 <!---
 officialbishowb/officialbishowb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
