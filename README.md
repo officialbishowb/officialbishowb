@@ -18,9 +18,9 @@ and more related stuff like that
  </ol>
 <p>If you would like have access to my <b>private repositories</b>, please send a message <a href="t.me/officialbishow"> here </a> or anywhere else where you can reach me!<p>
   
-  
-  ![Bishow's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=dark)<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=dark)<br>
+  ![Bishow's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=dark)
+
 
 <!---
 officialbishowb/officialbishowb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
