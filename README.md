@@ -19,7 +19,7 @@ and more related stuff like that
 <p>If you would like have access to my <b>private repositories</b>, please send a message <a href="t.me/officialbishow"> here </a> or anywhere else where you can reach me!<p>
   
   
-  [![Bishow's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb)](https://github.com/officialbishowb/github-readme-stats)
+  [![Bishow's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=radical&count_private=true)
 
 <!---
 officialbishowb/officialbishowb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
