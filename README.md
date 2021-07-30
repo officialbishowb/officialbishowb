@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I’m @officialbishowb</h1>
 
-- 👀 I’m interested in Programming, Ethical Hacking, Cybersecurity 
-and more related stuff like that
+- 👀 I'm interested in programming, ethical hacking, cybersecurity and things like that
 - 💻 I’m currently an IT student
 - ✅ Learning daily
 - ✉ Write me on telegram for collaboration
