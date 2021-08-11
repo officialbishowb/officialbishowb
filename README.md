@@ -7,6 +7,7 @@
 
 <h3>My projects</h3>
 <ol>
+  <li>Dorks generatorr [<b>PRIVATE</b>]</li>
   <li>Randomizer [<b>PRIVATE</b>]</li>
   <li>Email-filter [<b>PRIVATE</b>]</li>
   <li>Web-url-Checker [<b>PRIVATE</b>]</li>
