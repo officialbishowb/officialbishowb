@@ -17,7 +17,7 @@
   <li>Php-Telegram-Bot-Manger [<b>PUBLIC</b>]</li>
   <li>Python-Telegram-Bot-Manger [<b>PUBLIC</b>]</li>
  </ol>
-<p>If you would like have access to my <b>private repositories</b>, please send a message <a href="t.me/officialbishow"> here </a> or anywhere else where you can reach me!<p>
+<p>If you would like have access to my <b>private repositories</b>, please send a message <a href="https://t.me/officialbishow"> here </a> or anywhere else where you can reach me!<p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=dark)<br>
   ![Bishow's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=dark)
