@@ -7,6 +7,7 @@
 
 <h3>My projects</h3>
 <ol>
+  <li>TheHackingTips Telegram Bot [t.me/thehackingtipsbot]</li>
   <li>Duplicate remover [<b>PRIVATE</b>]</li>
   <li>Dorks generator [<b>PRIVATE</b>]</li>
   <li>Randomizer [<b>PRIVATE</b>]</li>
