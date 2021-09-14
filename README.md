@@ -8,7 +8,6 @@
 <h3>My projects</h3>
 <p> 9 PRIVATE REPOS</p>
 <p> 3 PUBLIC REPOS</p>
-<p>If you would like have access to my <b>private repositories</b>, please send a message <a href="https://t.me/officialbishowb"> here </a> or anywhere else where you can reach me!<p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=dark)<br>
   ![Bishow's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=dark)
