@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m @officialbishowb</h1>
 
 - 👀 I'm interested in programming, ethical hacking, cybersecurity and things like that
-- 💻 I’m currently an IT student
+- 💻 Currently an IT student
 - ✅ Learning daily
 
 <h3>My projects</h3>
