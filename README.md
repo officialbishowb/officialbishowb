@@ -6,7 +6,7 @@
 
 <h3>My projects</h3>
 <p> 
-  <b>9</b> PRIVATE REPOS<br>
+  <b>5</b> PRIVATE REPOS<br>
   <b>7</b> PUBLIC REPOS
 </p>
   
