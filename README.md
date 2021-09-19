@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in programming, ethical hacking, cybersecurity and things like that
 - 💻 Currently an IT student
-- ✅ Learning daily
+- 📖 Learning daily
 
 <h3>My projects</h3>
 <p> 
