@@ -7,7 +7,7 @@
 <h3>My projects</h3>
 <p> 
   <b>9</b> PRIVATE REPOS<br>
-  <b>3</b> PUBLIC REPOS
+  <b>7</b> PUBLIC REPOS
 </p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=dark)<br>
