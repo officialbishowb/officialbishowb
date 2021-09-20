@@ -9,10 +9,6 @@
   <b>5</b> PRIVATE REPOS<br>
   <b>7</b> PUBLIC REPOS
 </p>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=dark)<br>
-  ![Bishow's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=dark)
-
 
 <!---
 officialbishowb/officialbishowb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
