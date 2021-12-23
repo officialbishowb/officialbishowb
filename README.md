@@ -4,6 +4,9 @@
 - 💻 Currently an IT student
 - 📖 Learning daily
 
+<strong>About my repos</strong>
+<p>A lot of repos are made from the idea that I suddenly had LoL</p>
+<p>A lot of repos codes are messy so repos with 🛑 will be updated in the future.</p>
 
 <!---
 officialbishowb/officialbishowb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
