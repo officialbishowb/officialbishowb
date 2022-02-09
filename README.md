@@ -10,7 +10,8 @@ A lot of repos codes are messy so repos with 🛑 will be updated in the future.
 
 ## 🧰 Languages in use:
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=tokyonight)
 </p>
 <!---
 officialbishowb/officialbishowb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
