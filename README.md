@@ -12,7 +12,8 @@ A lot of repos codes are messy so repos with 🛑 will be updated in the future.
 
 ## 🥇 Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=tokyonight)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=tokyonight)          
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=tokyonight)
  
 
 <!---
