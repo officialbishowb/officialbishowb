@@ -8,7 +8,7 @@
 <p>A lot of repos are made from the idea that I suddenly had LoL.<br>
 A lot of repos codes are messy so repos with 🛑 will be updated in the future.</p>
 
-## 🧰 Languages in use:
+## 🥇 Github Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=tokyonight)
 
