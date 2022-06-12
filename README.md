@@ -3,7 +3,6 @@
 - 👀 I'm interested in programming, ethical hacking, cybersecurity and things like that
 - 💻 Currently an IT student
 - 📖 Learning daily
-- ![](https://visitor-badge.laobi.icu/badge?page_id=officialbishowb.CharalambosIoannou)
 - [![Github](https://img.shields.io/github/followers/officialbishowb?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 ## About my repos
