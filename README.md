@@ -6,7 +6,7 @@
 
 ## 🗨 About my repos
 <p>A lot of repos are made from the idea that I suddenly had.<br>
-A lot of repos codes are messy so repos with 🛑 will be prob. updated in the future.</p>
+Beside that some repos codes are messy so I will try to update it.</p>
 
 ## 🥇 Github Stats:
 
