@@ -2,8 +2,7 @@
 
 - 👀 I'm interested in programming, ethical hacking, cybersecurity and things like that
 - 💻 Currently an IT student
-- 📖 Learning daily
-- [![Github](https://img.shields.io/github/followers/officialbishowb?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+- [![Github](https://img.shields.io/github/followers/officialbishowb?label=Follow&style=social)]
 
 ## About my repos
 <p>A lot of repos are made from the idea that I suddenly had.<br>
