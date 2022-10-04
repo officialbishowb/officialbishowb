@@ -4,7 +4,7 @@
 - 💻 Currently an IT student
 - [![Github](https://img.shields.io/github/followers/officialbishowb?label=Follow&style=social)]
 
-## About my repos
+## 🗨 About my repos
 <p>A lot of repos are made from the idea that I suddenly had.<br>
 A lot of repos codes are messy so repos with 🛑 will be prob. updated in the future.</p>
 
