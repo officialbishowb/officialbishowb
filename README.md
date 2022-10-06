@@ -10,9 +10,7 @@ Beside that some repos codes are messy so I will try to update it.</p>
 
 ## 🥇 Github Stats:
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbishowb&theme=tokyonight)
- | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=tokyonight)
- |
+
 <!---
 officialbishowb/officialbishowb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
