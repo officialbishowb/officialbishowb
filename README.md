@@ -2,6 +2,7 @@
 
 - 👀 I'm interested in programming, ethical hacking, cybersecurity and things like that
 - 💻 Currently an IT student
+- Got a project and looking for someone? [Inbox](https://t.me/officialbishowb) me
 - [![Github](https://img.shields.io/github/followers/officialbishowb?label=Follow&style=social)]
 
 ## 🗨 About my repos
