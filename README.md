@@ -10,17 +10,17 @@ Beside that some repos codes are messy so I will try to update it.</p>
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-262%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-248%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 448 Contributions in the Year 2022
+> 🏆 453 Contributions in the Year 2022
  > 
-> 📦 998.1 kB Used in GitHub's Storage 
+> 📦 998.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,49 +28,6 @@ Beside that some repos codes are messy so I will try to update it.</p>
  > 
 > 🔑 12 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    101 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
-🌆 Daytime    210 commits    █████████░░░░░░░░░░░░░░░░   38.53% 
-🌃 Evening    224 commits    ██████████░░░░░░░░░░░░░░░   41.1% 
-🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-Tuesday      66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
-Wednesday    102 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
-Thursday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
-Friday       87 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.96% 
-Saturday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
-Sunday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.78%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Vienna
-
-💬 Programming Languages: 
-PHP                      9 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.62% 
-JavaScript               6 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
-CSS                      5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45% 
-Blade Template           4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-HTML                     4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98%
-
-🔥 Editors: 
-VS Code                  33 hrs 16 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  33 hrs 16 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -84,7 +41,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2022 18:52:20 UTC
+ Last Updated on 09/11/2022 18:51:15 UTC
 <!--END_SECTION:waka-->
  
 
