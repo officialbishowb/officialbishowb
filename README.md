@@ -10,7 +10,7 @@ Beside that some repos codes are messy so I will try to update it.</p>
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@ Beside that some repos codes are messy so I will try to update it.</p>
 
 **🐱 My GitHub Data** 
 
-> 🏆 406 Contributions in the Year 2022
+> 🏆 407 Contributions in the Year 2022
  > 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
@@ -31,9 +31,9 @@ Beside that some repos codes are messy so I will try to update it.</p>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    101 commits    █████░░░░░░░░░░░░░░░░░░░░   20.32% 
+🌞 Morning    102 commits    █████░░░░░░░░░░░░░░░░░░░░   20.52% 
 🌆 Daytime    185 commits    █████████░░░░░░░░░░░░░░░░   37.22% 
-🌃 Evening    201 commits    ██████████░░░░░░░░░░░░░░░   40.44% 
+🌃 Evening    200 commits    ██████████░░░░░░░░░░░░░░░   40.24% 
 🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
 
 ```
@@ -85,7 +85,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 18:47:52 UTC
+ Last Updated on 30/11/2022 18:47:53 UTC
 <!--END_SECTION:waka-->
  
 
