@@ -10,7 +10,7 @@ Beside that some repos codes are messy so I will try to update it.</p>
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@ Beside that some repos codes are messy so I will try to update it.</p>
 
 **🐱 My GitHub Data** 
 
-> 🏆 428 Contributions in the Year 2022
+> 🏆 429 Contributions in the Year 2022
  > 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
@@ -28,6 +28,50 @@ Beside that some repos codes are messy so I will try to update it.</p>
  > 
 > 🔑 9 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    100 commits    █████░░░░░░░░░░░░░░░░░░░░   19.65% 
+🌆 Daytime    192 commits    █████████░░░░░░░░░░░░░░░░   37.72% 
+🌃 Evening    207 commits    ██████████░░░░░░░░░░░░░░░   40.67% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+Tuesday      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
+Wednesday    87 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
+Thursday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
+Friday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+Saturday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
+Sunday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+Python                   5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.22% 
+PHP                      3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   23.32% 
+Java                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
+Blade Template           1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.91%
+
+🔥 Editors: 
+VS Code                  15 hrs 41 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  11 hrs 51 mins      ███████████████████░░░░░░   75.52% 
+Linux                    3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -41,7 +85,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 18:46:07 UTC
+ Last Updated on 13/12/2022 18:47:06 UTC
 <!--END_SECTION:waka-->
  
 
