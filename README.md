@@ -8,7 +8,7 @@
 <h2 align="left">🗨 About my repos</h2>
 
 <p align="left">A lot of repos are made from the idea that I suddenly had.<br>Beside that some repos codes are messy so I will try to update it.</p>
-
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=officialbishowb" height="150" alt="stats graph"  />
