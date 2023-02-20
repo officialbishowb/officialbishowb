@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 My personal website [https://bhattarai.at](https://bhattarai.at)
+- 👨‍💻 My personal website [https://www.officialbishowb.com/](https://www.officialbishowb.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
