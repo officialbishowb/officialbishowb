@@ -3,7 +3,7 @@
 <h2 align="left">Hi, I’m @officialbishowb</h2>
 
 
-<p align="left">- 👀 I'm interested in programming, ethical hacking, cybersecurity and things like that<br>- 💻 Currently an IT student<br>- 👩‍💻 Got a project and looking for someone? [Inbox](https://t.me/officialbishowb) me</p>
+<p align="left">- 👀 I'm interested in programming, cybersecurity and stuff like that<br>- 💻 Currently an IT student<br>- 👩‍💻 Got a project and looking for someone? [Inbox](https://t.me/officialbishowb) me</p>
 
 <h2 align="left">🗨 About my repos</h2>
 
