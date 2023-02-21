@@ -30,5 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&locale=en" alt="officialbishowb" /></p> -->
 
-
-<img align="center" src="./images/userstats.svg" alt="officialbishowb stats" />
+<div align="center">
+<img src="./images/userstats.svg" alt="officialbishowb stats" />
+</div>
