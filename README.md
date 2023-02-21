@@ -24,4 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&locale=en" alt="officialbishowb" /></p> -->
 
-![Profile views](./images/userstats.svg)
+
+<img align="center" src="./images/userstats.svgt" alt="officialbishowb stats" />
