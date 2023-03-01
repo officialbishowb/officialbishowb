@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bishow Bhattarai</h1>
+<h1 align="center">Hi 👋, I'm Bishow</h1>
 <h3 align="center">A passionate IT student for programming, cybersecurity & stuff like that</h3>
 
 - 🔭 I’m currently working on [thehackingtips](https://thehackingtips.com)
