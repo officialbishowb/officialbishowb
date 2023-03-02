@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [thehackingtips](https://thehackingtips.com)
 
-- 🌱 I’m currently learning **Laravel, NodeJS, Flutter, C++**
+- 🌱 I’m currently learning **Laravel, NodeJS, Flutter, Vue.js**
 
 - 👯 I’m looking to collaborate on **anything**
 
