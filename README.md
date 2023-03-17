@@ -11,7 +11,6 @@
 
 <h3 align="left">Upcoming projects</h3>
 <ul>
-  <li><u>URL shortener</u></li>
   <li>Updating my personal web. using Vue.js</li>
 </ul>
 
