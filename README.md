@@ -11,7 +11,7 @@
 
 <h3 align="left">Upcoming projects</h3>
 <ul>
-  <li>Updating my personal web. using Vue.js</li>
+  <li>TheHackingtips Blog site</li>
 </ul>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialbishowb&show_icons=true&locale=en&layout=compact" alt="officialbishowb" /></p>
