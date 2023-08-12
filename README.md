@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bishow</h1>
 <h3 align="center">A passionate IT student for programming, cybersecurity & stuff like that</h3>
 
-- 🔭 I’m currently working on [thehackingtips](https://thehackingtips.com)
+- 🔭 I’m currently working on two big projects
+  - [thehackingtips](https://thehackingtips.com)
+  - [firsttimeinaustria](https://firsttimeinaustria.at/)
 
 - 🌱 I’m currently learning **C++, ASP.NET**
 
