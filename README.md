@@ -5,7 +5,7 @@
   - Officialbishowb service page
   
 
-- 🌱 I’m currently learning **C++, ASP.NET**
+- 🌱 I’m currently learning **/**
 
 - 👯 I’m looking to collaborate on **anything**
 
