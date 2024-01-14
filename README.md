@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 My personal website [https://www.officialbishowb.com/](https://www.officialbishowb.com/)
+- 👨‍💻 My personal website [officialbishowb.com](https://www.officialbishowb.com/)
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialbishowb&show_icons=true&locale=en&layout=compact" alt="officialbishowb" /></p>
