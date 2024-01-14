@@ -5,7 +5,7 @@
   - 404 Not found
   
 
-- 🌱 I’m currently learning **/**
+- 🌱 I’m currently learning **SEO**
 
 - 👯 I’m looking to collaborate on **anything**
 
