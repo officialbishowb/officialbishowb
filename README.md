@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=officialbishowb&show_icons=true&theme=radical" height="150" alt="stats "  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialbishowb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 
 
